@@ -5,7 +5,7 @@
 
 # Cookie内EPORTAL_COOKIE_USERNAME值，即 学号，为10位
 userId=2017*****8
-# Cookie内EPORTAL_COOKIE_PASSWORD的值，即 新版密码加密后的值，为256为
+# Cookie内EPORTAL_COOKIE_PASSWORD的值，即 新版密码加密后的值，为256位
 password=66202****488b487
 # Referer内nasportid的值，不清楚，填就是了，为80位
 nasportid=14079****08a84c

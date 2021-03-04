@@ -1,8 +1,8 @@
 
-# 聊城大学校园网(LCU-WIFI)登录Shell脚本
+# 聊城大学校园网(LCU-WIFI)登录 - Shell脚本版
 - 此脚本仅供学习交流使用
 - 此脚本分为不加密版和加密版（需要手动找加密后的密码）
-
+- 另有 [Node.js 版本](/NODE_PLUS/README.MD) 方便配置定时执行与跨平台。
 ##  一、不加密版（安全性低）
 
 > 此方法由 [MaxChang3](https://github.com/MaxChang3) 发现，即 encryptipassword=false

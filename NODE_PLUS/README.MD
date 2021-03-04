@@ -33,3 +33,7 @@
    }
    ```
 5. `node index.js`
+
+
+## 预览
+  ![](preview.png)

@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 # 此脚本为聊城大学2021年校园网自动登录的Shell脚本
 # 项目地址为 https://github.com/rentianyu/LCU_WIFI
 # 此脚本为未加密版，请注意安全，仅供学习交流使用

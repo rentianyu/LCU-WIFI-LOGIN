@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 # 此脚本为聊城大学2021年校园网自动登录的Shell脚本
 # 此脚本仅供学习交流使用
 # 用法为在登录前按F12抓包，登录成功后找 http://172.30.2.2:8088/eportal/success.jsp?userIndex**** 的Cookie，将所需值填入脚本内对应位置后运行脚本即可

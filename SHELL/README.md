@@ -12,7 +12,7 @@
 # 下载脚本
 wget --no-check-certificate https://raw.githubusercontent.com/rentianyu/LCU_WIFI/master/SHELL/login_unsafe.sh
 # 运行登录（密码中一些特殊符号，比如&、#不支持）
-bash login_unsafe.sh 账号 密码
+sh login_unsafe.sh 账号 密码
 ```
 
 ## 二、加密版（需要手动找加密后的密码）
